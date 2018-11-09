@@ -2,8 +2,10 @@
     <string name="app_name">Öğrenci Servis Sürücü</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Sürücü Adı Soyadı</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Ayarlar</string>
+    <string name="service_go">Servise Çık</string>
+    <string name="settings">Ayarlar</string>
+    <string name="edit_my_profile">Profilimi Düzenle</string>
 </resources>
