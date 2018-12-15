@@ -96,11 +96,11 @@ public class ActivityLogin extends AppCompatActivity {
     }
 
     private void GetVariableFromObject() {
-        txtDealerCode = (TextInputEditText) findViewById(R.id.txtDealerCode);
-        txtUserName = (TextInputEditText) findViewById(R.id.txtUserName);
-        txtPassword = (TextInputEditText) findViewById(R.id.txtPassword);
-        cbRememberMe = (CheckBox) findViewById(R.id.cbRememberMe);
-        btnExit = (Button) findViewById(R.id.btnExit);
-        btnLogin = (Button) findViewById(R.id.btnLogin);
+        txtDealerCode = findViewById(R.id.txtDealerCode);
+        txtUserName = findViewById(R.id.txtUserName);
+        txtPassword = findViewById(R.id.txtPassword);
+        cbRememberMe = findViewById(R.id.cbRememberMe);
+        btnExit = findViewById(R.id.btnExit);
+        btnLogin = findViewById(R.id.btnLogin);
     }
 }
